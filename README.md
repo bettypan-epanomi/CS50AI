@@ -4,6 +4,8 @@ Tictactoe,
 Knights,
 Minesweeper,
 PageRank,
+Heredity,
+
 Search, 
 
 
