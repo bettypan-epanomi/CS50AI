@@ -1,8 +1,9 @@
 Python code for Projects
 Degrees, 
-tictactoe,
-knights,
-minesweeper,
+Tictactoe,
+Knights,
+Minesweeper,
+PageRank,
 Search, 
 
 
