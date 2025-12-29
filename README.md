@@ -5,6 +5,7 @@ Knights,
 Minesweeper,
 PageRank,
 Heredity,
+Shopping
 
 Search, 
 
