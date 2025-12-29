@@ -5,12 +5,6 @@ Knights,
 Minesweeper,
 PageRank,
 Heredity,
-Shopping
-
-Search, 
-
-
-
-
+Shopping,
 
 CS50’s Introduction to Artificial Intelligence with Python
